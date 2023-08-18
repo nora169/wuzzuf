@@ -1,0 +1,2 @@
+scraping wuzzuf website (the job ,the company , the location and the skills nedded for that job) 
+storing the data in csv file
